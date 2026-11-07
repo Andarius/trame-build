@@ -1,1 +1,1 @@
-{ "plugins": ["Andarius/trame-notebook-cells", "Andarius/trame-k8s"] }
+{ "plugins": ["Andarius/trame-plugins/notebook-cells", "Andarius/trame-plugins/k8s"] }
